@@ -1,0 +1,26 @@
+_repo: The-Wampanoags-in-the-seventeenth-century-b-An-ethnohistorical-survey_74431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marten, Catherine
+    gutenberg_agent_id: '57503'
+    url: http://www.gutenberg.org/2009/agents/57503
+description: ''
+gutenberg_issued: '2024-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74431'
+language: en
+pgterms:marc905: 20231214080933marten
+pgterms:marc906: '1970'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bPlimoth Plantation Incorporated, $c1970.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Wampanoags in the seventeenth century : $b An ethnohistorical survey'
+url: http://www.gutenberg.org/ebooks/74431
