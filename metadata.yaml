@@ -1,11 +1,16 @@
 _repo: The-Wampanoags-in-the-seventeenth-century-b-An-ethnohistorical-survey_74431
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74431-h/images/cover-pic.jpg
 creator:
   author:
     agent_name: Marten, Catherine
     gutenberg_agent_id: '57503'
     url: http://www.gutenberg.org/2009/agents/57503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74431#The-Wampanoags-in-the-seventeenth-century-b-An-ethnohistorical-survey
 gutenberg_issued: '2024-09-17'
 gutenberg_type: Text
 identifiers:
